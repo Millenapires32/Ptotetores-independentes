@@ -110,6 +110,11 @@ body {
 .input-box input::placeholder {
     color: #000000be;
 }
+.checkbox{
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #b94646c0;
+}
 
 .continue-button button {
     width: 100%;
