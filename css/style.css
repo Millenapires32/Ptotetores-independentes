@@ -95,6 +95,14 @@
     color:#9191a9;
     text-align: justify;
 }
+.time h1{
+    font-family: Viga;
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-top: 6px;
+    text-align: center;
+    color: #58585b;
+}
 /*Rodapé estilização*/
 .info{
     font-family: Viga;
