@@ -59,26 +59,52 @@
 .abaut h1{
     font-family: Viga;
     font-size: 36px;
-    font-weight: bold;
     text-transform: uppercase;
     margin-top: 6px;
     text-align: center;
+    color: #58585b;
 }
 /*Sobre estilização*/
-.abaut h1:hover{
-    border-bottom: 3px solid #0b63dc;
-}
-.abaut img{
-    margin-left: 50px;
-    margin-top: 75px;
-    float: left;
-    border-radius: 4px;
-    border-color: #acacac;
-}
-.abaut p{
-    margin-left: 490px;
+.abaut p {
     font-size: 20px;
-    margin-top: -310px;
-
+    color: #9191a9;
+    margin-top: -280px;
+}
+/*especialização estilização*/
+.esp h1{
+    font-family: Viga;
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-top: 6px;
+    text-align: center;
+    color: #58585b;
+}
+.esp p{
+    font-size: 20px;
+    color: #9191a9;
+    text-align: center;
+}
+.card h3{
+    font-size: 17px;
+    color: #58585b;
+    text-align: center;
+    margin-top: 3px;
+}
+.card p{
+    font-size: 15px;
+    color:#9191a9;
+    text-align: justify;
+}
+/*Rodapé estilização*/
+.info{
+    font-family: Viga;
+}
+.footer{
+    align-items:flex-end;
+}
+.dev p{
+    text-align: center;
+    padding: 20px;
+    font-size: 13px;
 }
 
