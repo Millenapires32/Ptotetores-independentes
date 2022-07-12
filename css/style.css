@@ -56,7 +56,8 @@
     font-size: 14px;
     color: #acacac;
 }
-.abaut h1{
+/*Sobre estilização*/
+.abaut h2{
     font-family: Viga;
     font-size: 36px;
     text-transform: uppercase;
@@ -64,14 +65,13 @@
     text-align: center;
     color: #58585b;
 }
-/*Sobre estilização*/
 .abaut p {
     font-size: 20px;
     color: #9191a9;
-    margin-top: -280px;
+    margin-top: 20px;
 }
 /*especialização estilização*/
-.esp h1{
+.esp h2{
     font-family: Viga;
     font-size: 36px;
     text-transform: uppercase;
@@ -84,16 +84,12 @@
     color: #9191a9;
     text-align: center;
 }
-.card h3{
-    font-size: 17px;
-    color: #58585b;
-    text-align: center;
-    margin-top: 3px;
+.services h3{
+ color: #58585b;
 }
-.card p{
-    font-size: 15px;
-    color:#9191a9;
-    text-align: justify;
+.services p{
+    font-size: 17px;
+    color: #9191a9;
 }
 .time h1{
     font-family: Viga;
